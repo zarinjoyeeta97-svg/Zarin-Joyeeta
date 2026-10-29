@@ -1,0 +1,8 @@
+{
+  "name": "Noventra Studio — Graphic Design & Brand Identity",
+  "description": "Premium portfolio website for Noventra Studio featuring logo design, brand identity systems, social media graphics, and promotional logo video concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
